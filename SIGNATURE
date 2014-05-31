@@ -1,0 +1,41 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+SHA1 04f63dd2ca71d8a60ac0f1b9e4eb98832d0bd038 Changes
+SHA1 78c689d3598fa148c81dd90854f85fb565bd1a17 MANIFEST
+SHA1 0d05899b2b40faaa193d87d6e10e6f5c87dd7e51 META.json
+SHA1 9b13d7e7e3ea5e9adb214be4876156cf54708019 META.yml
+SHA1 caf34f7e45ef98d0920952a668ccacdad726579e Makefile.PL
+SHA1 6838112394d08534e91085c553629274410c62bb README
+SHA1 b0a3dd0a1538cb0cd28b5e73686f9eb8d2b2e08c lib/Gruntmaster/GUI.pm
+SHA1 af25d69220c921b31237acdc9dabcba7d13493ed t/Gruntmaster-GUI.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJTilpcAAoJEMoENb5ewbNi2+EP/Rl3IrU8ITMa5KvjCz5uuBjz
+Puc+KJV627mywX6TE+fSOC3l3zskqHeq69fJ8OQLsK7sxE28fE2T+T9DT5ScXz3z
+Wd3mdf3BaOrdncvqHsmSsSPIUYdtaE+c13nE04Zo1/lw+ZbOc3/9AAK+DJXPLwng
+6F7zFDh+p6jXbIjBMsEoPR8wfglCdlfr4oyzzwCQqEiL8/Ani//velUuVqB6Wkzk
+FRnyTK0PsieAJOVe3fC+rj7Q0one3rFbciLwMbwhVP5FQ8WXivxtrYgBctJUqtPt
+SmFYVo7WCYhiMdHE7o4O0maDQtPOOiwE0OIlTygzwrqP+kvaaKo73y7KDMMleUOf
+lGtoOsGmU/KTamBl2Be3Krmw3ljMrvmuVGrLoTvRVmfTdxDRm1L0XbICy2Quo4q2
+GUaGc6NLlKbLBwYgg5SAoAHX74VTZl/3gs+tXG2iu0i4JV6jftaobJb8MfanT15k
+EglmblDDXZdzENqEeiVSEhVeUOcpkLyHr/UKGTTitjM4tD88QnljNH/Jgn60smr0
+nmEuo6toanR9zzS9/TKCyAWJ9P1oZK+RF+vef0w2fFSmpDifiaB074Wf3WaXCzn5
+kmaOP1Gf0mz13GJnBbXAlOzbWBmy3hsbVjFcpQMvi855pnQK+foeD3TO5zW7Xipj
+FZXgw0jQ6NTWmesbx5JR
+=WpzA
+-----END PGP SIGNATURE-----
